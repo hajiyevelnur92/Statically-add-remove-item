@@ -56,5 +56,8 @@ dependencies {
     // arch-paging
     implementation "androidx.paging:paging-runtime:2.1.0"
 
+    // fake data generation
+    implementation 'com.github.javafaker:javafaker:0.17.2'
+
 
 }
