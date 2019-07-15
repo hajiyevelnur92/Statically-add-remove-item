@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyDrive Task</string>
+    <string name="add_consumer">add consumer</string>
+    <string name="add_producer">add producer</string>
+</resources>
