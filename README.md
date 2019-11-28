@@ -1,8 +1,6 @@
-StudyDrive assignment
-=================
-These is the sources for a StudyDrive Task Android App. It is to be
-released 15.07.2019.
-
+Task
+------------
+It helps to understand how to add, remove item into listview with a help of db
 Features
 ------------
 * Kotlin based , room database, recyclerview, mvvm pattern
