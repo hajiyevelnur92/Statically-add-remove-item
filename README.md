@@ -1,6 +1,7 @@
 Task
 ------------
 It helps to understand how to add, remove item into listview with a help of db
+
 Features
 ------------
 * Kotlin based , room database, recyclerview, mvvm pattern
